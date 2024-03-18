@@ -1,3 +1,6 @@
+[![pixeltaken](https://snapcraft.io/pixeltaken/badge.svg)](https://snapcraft.io/pixeltaken)
+[![pixeltaken](https://snapcraft.io/pixeltaken/trending.svg?name=0)](https://snapcraft.io/pixeltaken)
+
 # Pixel Taken - Screenshot Tool
 ## Capture and share screenshots easily with Pixel Taken!
 
